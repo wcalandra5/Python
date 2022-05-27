@@ -1,0 +1,12 @@
+Exercises and topics
+Ex 1 - 7 - printing, basic variable declrations and work
+Ex 8 - 10 - formatters, escape sequences
+Ex 11 - 17 - raw_input(), command line inputs, working with files
+Ex 18 - 26 - Functions
+Ex 27 - 31 - Logic, boolean logic, if-elif statements
+Ex 32 - 33 - For loops, while loops
+Ex 34, 38 - 39 - lists + dictionaries
+Ex 35 - 36 - functions and program flow control
+Ex 40 - 44 - modules, classes, objects, inheritance, composition
+Ex 45 - brief baseball game
+Ex 46 - 52 - require Python 3, to come soon!
